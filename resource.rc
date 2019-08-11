@@ -1,0 +1,4 @@
+#include "resource.h"
+
+// Icons
+IDI_HEX       ICON         "icon\\icon.ico"

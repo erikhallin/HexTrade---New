@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1387738050 source:c:\erikprogram\hextrade\hextrade - new\game.cpp
+	"game.h"
+
+1393268837 c:\erikprogram\hextrade\hextrade - new\game.h
+	<SOIL/SOIL.h>
+	<gl/gl.h>
+	<iostream>
+	<time.h>
+	<string>
+	<sstream>
+	<fstream>
+	"world.h"
+	"menu.h"
+	"networkCom.h"
+	"sound.h"
+	"decal.h"
+	"files_in_text.h"
+	"base64.h"
+
+1390144315 source:c:\erikprogram\hextrade\hextrade - new\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<fcntl.h>
+	<stdio.h>
+	<string>
+	<winsock2.h>
+	"game.h"
+	"networkCom.h"
+	"resource.h"
+
+1387021245 c:\erikprogram\hextrade\hextrade - new\world.h
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<ctime>
+	<fstream>
+	"tile.h"
+	"city.h"
+	"trade.h"
+	"sound.h"
+
+1387131372 c:\erikprogram\hextrade\hextrade - new\tile.h
+	<iostream>
+	<gl/gl.h>
+	<stdlib.h>
+	<math.h>
+	"definitions.h"
+
+1387132244 source:c:\erikprogram\hextrade\hextrade - new\tile.cpp
+	"tile.h"
+
+1387485565 source:c:\erikprogram\hextrade\hextrade - new\world.cpp
+	"world.h"
+
+1387486445 c:\erikprogram\hextrade\hextrade - new\city.h
+	<gl/gl.h>
+	<vector>
+	<iostream>
+	<stdlib.h>
+	"tile.h"
+	"trade.h"
+	"definitions.h"
+	"sound.h"
+
+1387486445 source:c:\erikprogram\hextrade\hextrade - new\city.cpp
+	"city.h"
+
+1393268837 c:\erikprogram\hextrade\hextrade - new\definitions.h
+	<vector>
+	<stdlib.h>
+	<math.h>
+	<string>
+
+1387023128 c:\erikprogram\hextrade\hextrade - new\trade.h
+	<gl/gl.h>
+	<vector>
+	<iostream>
+	"definitions.h"
+
+1387023111 source:c:\erikprogram\hextrade\hextrade - new\trade.cpp
+	"trade.h"
+
+1378561454 source:c:\erikprogram\hextrade\hextrade - new\clientcom.cpp
+	"clientCom.h"
+
+1378541744 c:\erikprogram\hextrade\hextrade - new\clientcom.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<winsock2.h>
+
+1379839027 source:c:\erikprogram\hextrade\hextrade - new\networkcom.cpp
+	"networkCom.h"
+
+1387490067 c:\erikprogram\hextrade\hextrade - new\networkcom.h
+	<winsock2.h>
+	<iostream>
+	<string>
+	<vector>
+	<winsock2.h>
+	"serverCom.h"
+	"clientCom.h"
+
+1378541744 c:\erikprogram\hextrade\hextrade - new\servercom.h
+	<iostream>
+	<stdlib.h>
+	<winsock2.h>
+	<string>
+	<vector>
+
+1384116697 source:c:\erikprogram\hextrade\hextrade - new\servercom.cpp
+	"serverCom.h"
+
+1382263563 source:c:\erikprogram\hextrade\hextrade - new\button.cpp
+	"button.h"
+
+1356969732 c:\erikprogram\hextrade\hextrade - new\button.h
+	<gl\gl.h>
+	<iostream>
+
+1383075762 c:\erikprogram\hextrade\hextrade - new\menu.h
+	"definitions.h"
+	"decal.h"
+	"button.h"
+	"text_input_box.h"
+	"text_list.h"
+	<vector>
+
+1384204184 c:\erikprogram\hextrade\hextrade - new\decal.h
+	<gl\gl.h>
+
+1382296102 c:\erikprogram\hextrade\hextrade - new\text_input_box.h
+	"sound.h"
+	"display.h"
+	<string>
+	<gl\gl.h>
+
+1384204892 source:c:\erikprogram\hextrade\hextrade - new\decal.cpp
+	"decal.h"
+
+1381069909 source:c:\erikprogram\hextrade\hextrade - new\display.cpp
+	"display.h"
+
+1381066608 c:\erikprogram\hextrade\hextrade - new\display.h
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<ctype.h>
+	<string>
+	<gl\gl.h>
+
+1384287974 source:c:\erikprogram\hextrade\hextrade - new\text_input_box.cpp
+	"text_input_box.h"
+	<stdlib.h>
+	<cctype>
+	<sstream>
+
+1387017234 source:c:\erikprogram\hextrade\hextrade - new\menu.cpp
+	"menu.h"
+
+1378319392 c:\erikprogram\hextrade\hextrade - new\text_list.h
+	"display.h"
+	"button.h"
+	<string>
+	<vector>
+
+1378320695 source:c:\erikprogram\hextrade\hextrade - new\text_list.cpp
+	"text_list.h"
+
+1384373198 c:\erikprogram\hextrade\hextrade - new\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1384599639 c:\erikprogram\hextrade\hextrade - new\sound_list.h
+
+1384373198 source:c:\erikprogram\hextrade\hextrade - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1383161826 source:c:\erikprogram\hextrade\hextrade - new\resource.rc
+	"resource.h"
+
+1383160925 c:\erikprogram\hextrade\hextrade - new\resource.h
+
+1384600400 c:\erikprogram\hextrade\hextrade - new\files_in_text.h
+	<string>
+	<iostream>
+
+1366051696 c:\erikprogram\hextrade\hextrade - new\base64.h
+	<string>
+
+1366051696 source:c:\erikprogram\hextrade\hextrade - new\base64.cpp
+	"base64.h"
+	<iostream>
+
+1384602899 source:c:\erikprogram\hextrade\hextrade - new\files_in_text.cpp
+	"files_in_text.h"
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Start" />
+	<File name="base64.h" open="1" top="0" tabpos="19">
+		<Cursor position="182" topLine="0" />
+	</File>
+	<File name="button.cpp" open="0" top="0" tabpos="24">
+		<Cursor position="633" topLine="0" />
+	</File>
+	<File name="button.h" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="city.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="44142" topLine="43" />
+	</File>
+	<File name="city.h" open="1" top="0" tabpos="9">
+		<Cursor position="3251" topLine="0" />
+	</File>
+	<File name="clientCom.cpp" open="0" top="0" tabpos="18">
+		<Cursor position="2412" topLine="26" />
+	</File>
+	<File name="clientCom.h" open="0" top="0" tabpos="17">
+		<Cursor position="866" topLine="0" />
+	</File>
+	<File name="decal.cpp" open="0" top="0" tabpos="25">
+		<Cursor position="657" topLine="0" />
+	</File>
+	<File name="decal.h" open="0" top="0" tabpos="18">
+		<Cursor position="884" topLine="0" />
+	</File>
+	<File name="definitions.h" open="1" top="0" tabpos="1">
+		<Cursor position="466" topLine="0" />
+	</File>
+	<File name="display.cpp" open="0" top="0" tabpos="22">
+		<Cursor position="7496" topLine="25" />
+	</File>
+	<File name="display.h" open="0" top="0" tabpos="19">
+		<Cursor position="1554" topLine="0" />
+	</File>
+	<File name="files_in_text.cpp" open="1" top="1" tabpos="21">
+		<Cursor position="17322238" topLine="152" />
+	</File>
+	<File name="files_in_text.h" open="1" top="0" tabpos="20">
+		<Cursor position="0" topLine="11" />
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1992" topLine="85" />
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="3">
+		<Cursor position="4047" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2515" topLine="11" />
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="7673" topLine="23" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="13">
+		<Cursor position="1247" topLine="0" />
+	</File>
+	<File name="networkCom.cpp" open="0" top="0" tabpos="20">
+		<Cursor position="3815" topLine="18" />
+	</File>
+	<File name="networkCom.h" open="1" top="0" tabpos="18">
+		<Cursor position="6572" topLine="0" />
+	</File>
+	<File name="resource.h" open="0" top="0" tabpos="19">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="18">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="serverCom.cpp" open="0" top="0" tabpos="21">
+		<Cursor position="8261" topLine="36" />
+	</File>
+	<File name="serverCom.h" open="0" top="0" tabpos="22">
+		<Cursor position="1518" topLine="0" />
+	</File>
+	<File name="sound.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="12154" topLine="22" />
+	</File>
+	<File name="sound.h" open="1" top="0" tabpos="16">
+		<Cursor position="2074" topLine="0" />
+	</File>
+	<File name="sound_list.h" open="1" top="0" tabpos="15">
+		<Cursor position="189" topLine="0" />
+	</File>
+	<File name="text_input_box.cpp" open="0" top="0" tabpos="21">
+		<Cursor position="12797" topLine="140" />
+	</File>
+	<File name="text_input_box.h" open="0" top="0" tabpos="22">
+		<Cursor position="664" topLine="0" />
+	</File>
+	<File name="text_list.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="2421" topLine="0" />
+	</File>
+	<File name="text_list.h" open="0" top="0" tabpos="15">
+		<Cursor position="863" topLine="0" />
+	</File>
+	<File name="tile.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="33729" topLine="15" />
+	</File>
+	<File name="tile.h" open="1" top="0" tabpos="7">
+		<Cursor position="342" topLine="0" />
+	</File>
+	<File name="trade.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="500" topLine="13" />
+	</File>
+	<File name="trade.h" open="1" top="0" tabpos="11">
+		<Cursor position="837" topLine="0" />
+	</File>
+	<File name="world.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="97690" topLine="81" />
+	</File>
+	<File name="world.h" open="1" top="0" tabpos="5">
+		<Cursor position="1677" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
